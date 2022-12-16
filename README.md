@@ -28,7 +28,7 @@ Exemple :
 
 ### Encodage
 
-Pour encoder un message, utilisez la commande suivante où le **fichier d'entrée correspond au message à encoder**, le **fichier clé au fichier contenant la [clé de Vernam généré préalablement](#création-dune-clé)** et le **fichier de sortie qui contiendra le message codé** :
+Pour encoder un message, utilisez la commande suivante où le **fichier d'entrée correspond au message à encoder**, le **fichier clé au fichier contenant la [clé de Vernam généré préalablement](#création-d-une-clé)** et le **fichier de sortie qui contiendra le message codé** :
 
 ```bash
 ./vernam -c [fichier d'entrée] [fichier clé] [fichier de sorite]
